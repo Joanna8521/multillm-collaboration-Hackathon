@@ -1,6 +1,6 @@
 /**
- * @license
- * SPDX-License-Identifier: Apache-2.0
+ * Copyright (c) 2025 Multi-LLM Collaboration System
+ * Licensed under the MIT License. See the LICENSE file in the project root.
  */
 
 import { GoogleGenAI, Type } from "@google/genai";

@@ -1,3 +1,8 @@
+/**
+ * Copyright (c) 2025 Multi-LLM Collaboration System
+ * Licensed under the MIT License. See the LICENSE file in the project root.
+ */
+
 :root {
   --background-color: #0f0f0f;
   --surface-color: #1a1a1a;
@@ -956,11 +961,13 @@ h3 {
     justify-content: flex-end;
   }
 }
+
 .save-message {
   color: #4ade80;
   border-color: #4ade80;
   background-color: rgba(74, 222, 128, 0.1);
 }
+
 .search-section {
   margin-bottom: 1rem;
 }
