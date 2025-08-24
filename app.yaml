@@ -1,0 +1,18 @@
+runtime: python39
+
+handlers:
+- url: /multillm-collaboration/(.*\.(js|css|svg|png|jpg|jpeg|gif|ico|woff|woff2|ttf|eot))
+  static_files: dist/\1
+  upload: dist/(.*\.(js|css|svg|png|jpg|jpeg|gif|ico|woff|woff2|ttf|eot))
+
+- url: /multillm-collaboration/assets/(.*)
+  static_files: dist/assets/\1
+  upload: dist/assets/(.*)
+
+- url: /multillm-collaboration/.*
+  static_files: dist/index.html
+  upload: dist/index.html
+
+- url: /multillm-collaboration
+  static_files: dist/index.html
+  upload: dist/index.html
