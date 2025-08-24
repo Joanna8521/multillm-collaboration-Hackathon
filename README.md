@@ -49,24 +49,24 @@ Build & Deploy
 npm run build
 npm run deploy
 
-Tech Stack
+## Tech Stack
 1. Frontend: React + TypeScript + Vite
 2. AI Models Integrated: GPT-5, Claude, Gemini, Groq, Mistral, DeepSeek
 3. Styling: Custom CSS, flat minimalist UI
 4. Hosting: Google Cloud Platform or self-hosted environment
 
-How to Use
+## How to Use
 1. Choose one or more AI models and set up API keys.
 2. Define the discussion topic.
 3. Assign roles to each AI model.
 4. Execute the discussion rounds.
 5. Review outcomes and export the summary report.
 
-Project Status
+## Project Status
 Hackathon submission completed on 2025-08-24. Core features are stable and fully deployed.
 
-Contributing
+## Contributing
 Contributions are welcome! Feel free to submit a Pull Request for enhancements or bug fixes.
 
-License
+## License
 Apache-2.0 License
