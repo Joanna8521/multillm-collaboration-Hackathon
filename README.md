@@ -74,4 +74,5 @@ Hackathon submission completed on 2025-01-24. Core features are stable and fully
 Contributions are welcome! Feel free to submit a Pull Request for enhancements or bug fixes.
 
 ## License
-Apache-2.0 License
+
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
